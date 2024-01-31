@@ -1,6 +1,3 @@
-#student names : 
-#ABDELOUAHAB Soufiane, EL ADNANI El Mehdi,ABOU-EL KASEM Kenza , EL AOUAD Ouaail
-
 
 # Load necessary libraries
 library(reshape2)
