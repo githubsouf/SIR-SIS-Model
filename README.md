@@ -1,4 +1,4 @@
-# SIR-SIS-Model
+# SIR-SIS-Model-Using-Runge-Kutta-4
 
 Présentation du virus Conficker
 Depuis son introduction dans les années 1900, les logiciels malveillants ont
